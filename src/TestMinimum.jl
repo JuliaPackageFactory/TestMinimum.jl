@@ -1,6 +1,6 @@
-module TemplateMinimum
+module TestMinimum
 
-# Public API, accessed as TemplateMinimum.hello without exporting the name.
+# Public API, accessed as TestMinimum.hello without exporting the name.
 public hello
 
 """

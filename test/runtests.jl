@@ -1,6 +1,6 @@
-using TemplateMinimum
+using TestMinimum
 using Test
 
-@testset "TemplateMinimum.hello" begin
-    @test TemplateMinimum.hello() == "Hello, World!"
+@testset "TestMinimum.hello" begin
+    @test TestMinimum.hello() == "Hello, World!"
 end
