@@ -1,6 +1,6 @@
-module TestMinimum
+module ExampleMinimum
 
-# Public API, accessed as TestMinimum.hello without exporting the name.
+# Public API, accessed as ExampleMinimum.hello without exporting the name.
 public hello
 
 """

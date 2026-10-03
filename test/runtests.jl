@@ -1,6 +1,6 @@
-using TestMinimum
+using ExampleMinimum
 using Test
 
-@testset "TestMinimum.hello" begin
-    @test TestMinimum.hello() == "Hello, World!"
+@testset "ExampleMinimum.hello" begin
+    @test ExampleMinimum.hello() == "Hello, World!"
 end
